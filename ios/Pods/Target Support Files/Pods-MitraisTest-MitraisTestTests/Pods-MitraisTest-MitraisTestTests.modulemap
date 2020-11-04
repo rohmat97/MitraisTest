@@ -1,0 +1,6 @@
+module Pods_MitraisTest_MitraisTestTests {
+  umbrella header "Pods-MitraisTest-MitraisTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
